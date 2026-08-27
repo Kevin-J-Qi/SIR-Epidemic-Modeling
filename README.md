@@ -1,6 +1,3 @@
-# SIR-Epidemic-Modeling
-Numerical simulation and analysis of the SIR epidemic model using MATLAB
-
 # SIR Epidemic Modeling
 
 This project uses **MATLAB** to simulate the spread of an infectious disease using the **SIR (Susceptible–Infected–Recovered) model**. The project explores how different infection and recovery rates affect epidemic dynamics, introduces randomness into the model, compares simulations with COVID-19 data from Arizona, and extends the model to include deaths.
